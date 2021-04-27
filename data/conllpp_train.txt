@@ -219552,3 +219552,15 @@ Swansea NN B-NP B-ORG
 Lincoln NNP I-NP B-ORG
 2 CD I-NP O
 
+COVID-19 NN B-NP B-MISC  
+: CD I-NP O
+Check CD I-NP O
+out CD I-NP O
+these CD I-NP O  
+4 drinks CD I-NP O
+that CD I-NP O
+will CD I-NP O
+weaken CD I-NP O
+your CD I-NP O
+immunity CD I-NP O
+system CD I-NP O
